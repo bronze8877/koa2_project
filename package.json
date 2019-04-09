@@ -1,0 +1,31 @@
+{
+  "name": "koa2_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bronze8877/koa2_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bronze8877/koa2_project/issues"
+  },
+  "homepage": "https://github.com/bronze8877/koa2_project#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "glob": "^7.1.3",
+    "koa": "^2.7.0",
+    "koa-views": "^6.2.0",
+    "mongoose": "^5.5.0",
+    "pug": "^2.0.3",
+    "puppeteer": "^1.14.0",
+    "qiniu": "^7.2.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
